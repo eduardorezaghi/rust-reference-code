@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "Rust - arguments passing",
+            "path": "references/args-passing"
+        },
+        {
+            "name": "Rust - Guessing Game",
+            "path": "references/guessing_game"
+        },
+        {
+            "name": "Rust - Hello Cargo",
+            "path": "references/hello_cargo"
+        }
+        {
+            "name": "Rust - Hello World",
+            "path": "references/hello_world"
+        },
+        {
+            "name": "Rust variables",
+            "path": "references/variables"
+        }
+    ],
+    "settings": {
+        "git.openRepositoryInParentFolders": "always",
+        "files.autoSave": "afterDelay",
+    }
+}
